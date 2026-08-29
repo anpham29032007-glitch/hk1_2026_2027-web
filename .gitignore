@@ -1,0 +1,11 @@
+.DS_Store 
+Thumbs.db 
+*.class 
+bin/ 
+build/ 
+target/  
+.idea/ 
+.vscode/ 
+*.iml #  
+*.log
+*.tmp
