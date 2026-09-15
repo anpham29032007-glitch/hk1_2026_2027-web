@@ -49,7 +49,6 @@ public class HangThucPham {
 	 */
 	public HangThucPham(String tenHang, double donGia, LocalDate ngaySanXuat, LocalDate ngayHetHan) {
 		this.maHang = generatemaHang();
-	   
 	    setTenHang(tenHang);          
 	    setDonGia(donGia);           
 	    setNgaySanXuat(ngaySanXuat);  
